@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from debuglog import explore, debug_context
+from pyspacelog import explore, debug_context
 
 @explore
 def main():
