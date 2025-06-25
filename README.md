@@ -26,3 +26,7 @@ def main():
     x = 42
     print("Doing something")
 ```
+
+## 🔭 Roadmap & Features
+
+See [FEATURES.md](./FEATURES.md) for upcoming features and development roadmap.
