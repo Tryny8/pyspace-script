@@ -2,7 +2,7 @@
 name = "pyspace-script"
 version = "0.1.0"
 description = "A lightweight namespace debugger for Python"
-authors = [{ name = "VITRY Antony", email = "ton.email@gmail.com" }]
+authors = [{ name = "Tryny8", email = "ton.email@gmail.com" }]
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.8"
