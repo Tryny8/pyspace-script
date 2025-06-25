@@ -1,6 +1,6 @@
 [project]
 name = "pyspace-script"
-version = "0.1.1"
+version = "0.1.2"
 description = "A lightweight namespace debugger for Python"
 authors = [{ name = "Tryny8", email = "ton.email@gmail.com" }]
 readme = "README.md"
