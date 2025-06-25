@@ -15,7 +15,7 @@ Vérifie que la version dans pyproject.toml correspond à celle demandée
 
 1. Place ce script dans : tools/release.py
 
-2. Depuis la racine de ton projet :
+2. Depuis la racine de ton projet, une fois le fichier toml modifié sur la bonne version ex: v0.1.2 etc
 
 ```bash
 python tools/release.py
